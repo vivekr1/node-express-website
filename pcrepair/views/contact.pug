@@ -1,0 +1,19 @@
+extend layout
+block content
+    form(action="contact/send", method="post")
+        h1 #{title}
+        .well
+            .form-group
+                label Name
+                input.form-control(type="text", name="name", placeholder="Enter Name")
+            .form-group
+                label Email
+                input.form-control(type="email", name="email", placeholder="Enter Email")
+            .form-group
+            div
+                label Message
+            .col-md-6
+            textarea.form-control(rows='3', name="message", placeholder="Enter Message",)
+            br
+            button.btn.btn-default.btn-primary(type="submit") SUBMIT
+            

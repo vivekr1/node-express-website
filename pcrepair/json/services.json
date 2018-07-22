@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hardware Repair",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima at commodi modi rem laboriosam quasi. Maxime iure deserunt, repellat quibusdam sint quas nihil similique voluptas dicta laboriosam facere commodi cupiditate.",
+        "price_range": "2000-5000"
+    },
+    {
+        "name": "Virus Removal",
+        "description": "Amet consectetur adipisicing elit. Minima at commodi modi rem laboriosam quasi. Maxime iure deserunt, repellat quibusdam sint quas nihil similique voluptas dicta laboriosam facere commodi cupiditate.",
+        "price_range": "1000-2000"
+    },
+    {
+        "name": "PC Tune Up",
+        "description": "Amet consectetur adipisicing elit laboriosam quasi. Maxime iure deserunt, repellat quibusdam sint quas nihil similique voluptas dicta laboriosam facere commodi cupiditate.",
+        "price_range": "1000-4000"
+    },
+    {
+        "name": "Network Services",
+        "description": "Rem laboriosam quasi. Maxime iure deserunt, repellat quibusdam sint quas nihil similique voluptas dicta laboriosam facere commodi cupiditate.",
+        "price_range": "1000-3000"
+    }
+]
